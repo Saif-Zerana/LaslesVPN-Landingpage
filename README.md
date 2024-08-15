@@ -7,7 +7,7 @@ LaslesVPN is a sophisticated web development project created using HTML5, CSS3, 
 
 ### Screenshot
 
-![Project Screenshot](images/Screenshot.png)
+![Project Screenshot](img/Screenshot (21).png)
 
 
 ## 🚀 Technologies Used
@@ -22,7 +22,7 @@ In this project, I have utilized the following technologies:
 
 ## 🌍 Live Demo
 
-You can view the live version of the project [here]().
+You can view the live version of the project [LaslesVPN](https://saif-zerana.github.io/LaslesVPN-Landingpage/).
 Your feedback will be highly appreciated! 😊
 
 ## Acknowledgments
