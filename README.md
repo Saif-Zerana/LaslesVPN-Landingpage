@@ -7,7 +7,7 @@ LaslesVPN is a sophisticated web development project created using HTML5, CSS3, 
 
 ### Screenshot
 
-![Project Screenshot](img/Screenshot (21).png)
+![Project Screenshot](img/Screenshot.png)
 
 
 ## 🚀 Technologies Used
