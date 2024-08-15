@@ -96,10 +96,6 @@ body {
   color: var(--color-description);
 }
 
-.header__buttons--nav {
-  display: none;
-}
-
 .link {
   padding: 0.5rem;
   border-radius: calc(var(--default-radius) / 2);
@@ -629,6 +625,11 @@ body {
   color: var(--color-description);
 }
 
+@media (min-width: 500px) and (max-width: 2000px) {
+  .header__buttons--nav {
+    display: none;
+  }
+}
 @media (max-width: 900px) {
   .header__nav {
     gap: 1rem;
